@@ -1,1 +1,2 @@
 this is my file 
+thi is my second feature 
